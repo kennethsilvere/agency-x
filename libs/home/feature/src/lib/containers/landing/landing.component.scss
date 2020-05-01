@@ -1,0 +1,10 @@
+:host {
+  background: linear-gradient(
+      to bottom,
+      rgb(247, 217, 46, 0.9),
+      rgb(247, 162, 83, 0.9)
+    ),
+    url(/assets/images/home/world_travel.png);
+  background-size: cover;
+  height: 100vh;
+}
